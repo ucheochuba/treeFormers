@@ -2,7 +2,7 @@
 ## Uche Ochuba
 uochuba@cs.stanford.edu \
 Stanford University Department of Computer Science \
-Computer Science 229: Machine Learning \
+Computer Science 229: Machine Learning 
 
 
 
